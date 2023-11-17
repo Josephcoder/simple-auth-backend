@@ -1,4 +1,4 @@
-# simple-auth-backend
+# Simple-auth-backend
 ` Create simple authentication`
 ## Tech stack
 - Set up environment for backend`
