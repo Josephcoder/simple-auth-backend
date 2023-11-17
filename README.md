@@ -10,6 +10,6 @@
     * services
     * routes
 - User fields
-  `id, email,name, password, createdAt,updatedAt`
+  *id *email *name *password *createdAt *updatedAt
    
   
