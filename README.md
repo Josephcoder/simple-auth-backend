@@ -9,7 +9,13 @@
     * controller
     * services
     * routes
-- User fields
-  *id *email *name *password *createdAt *updatedAt
+- Databse
+  * Create model User with this fields
+    * id
+    * email
+    * name
+    * password
+    * createdAt
+    * updatedAt
    
   
