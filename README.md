@@ -1,5 +1,5 @@
 # simple-auth-backend
-` Create simple authontitcation`
+` Create simple authentication`
 ## Tech stack
 - Set up environment for backend`
   > node js with express js, typescript, db prisma orm postgressql
