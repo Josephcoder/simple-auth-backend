@@ -9,5 +9,7 @@
     * controller
     * services
     * routes
+- User fields
+  `id, email,name, password, createdAt,updatedAt`
    
   
