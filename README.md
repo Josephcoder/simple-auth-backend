@@ -1,6 +1,13 @@
 # simple-auth-backend
-` Create simple authontitcation with the following:`
+` Create simple authontitcation`
 ## Tech stack
-- Set up envelopment for backend`
-  > node js, typescript, db prisma orm postgressql
+- Set up environment for backend`
+  > node js with express js, typescript, db prisma orm postgressql
+- Folder structure
+  > src
+    > Config
+    > controller
+    > services
+    > routes
+   
   
