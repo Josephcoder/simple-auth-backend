@@ -5,9 +5,9 @@
   > node js with express js, typescript, db prisma orm postgressql
 - Folder structure
   * src
-      * Config
-      * controller
-      * services
-      * routes
+    * config
+    * controller
+    * services
+    * routes
    
   
